@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D163BF8F-5ADB-4179-B5F3-BE15B55E9455</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>f8f7cd42-738c-405e-987a-37129ab60c77++1674</key>
+		<string>https://subversion.assembla.com/svn/clickntap/trunk/arcTap</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>f8f7cd42-738c-405e-987a-37129ab60c77++1674</key>
+		<string>arcTap/</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>f8f7cd42-738c-405e-987a-37129ab60c77++1674</key>
+		<string>https://subversion.assembla.com/svn/clickntap</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://subversion.assembla.com/svn/clickntap/trunk/arcTap</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>f8f7cd42-738c-405e-987a-37129ab60c77++1674</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>f8f7cd42-738c-405e-987a-37129ab60c77++1674</string>
+			<key>IDESourceControlWCCName</key>
+			<string>arcTap</string>
+		</dict>
+	</array>
+</dict>
+</plist>
